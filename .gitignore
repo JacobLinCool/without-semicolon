@@ -1,0 +1,30 @@
+# ignore all
+*
+
+# unignore LICENSE README.md .gitignore .gitattributes
+!LICENSE 
+!README.md 
+!.gitignore 
+!.gitattributes
+!.prettierrc
+
+# ignore all in subdirectories
+!*/
+
+# unignore makefiles
+!Makefile
+
+# unignore c/c++ sources
+!*.c
+!*.cpp
+!*.h
+!*.hpp
+
+# unignore python sources
+!*.py
+
+# unignore typescript/javascript sources
+!*.ts
+!*.tsx
+!*.js
+!*.jsx
