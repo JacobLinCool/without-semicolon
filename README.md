@@ -13,4 +13,4 @@ All contributions are welcome, including:
 
 - Adding new language to the list
 - Adding new example
-- Explaining the reasoning behind the code
+- Explaining the reason behind the code
