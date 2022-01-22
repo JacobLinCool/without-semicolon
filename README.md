@@ -3,6 +3,7 @@
 Ok, so runable code of those languages can be done without any semicolon.
 
 - [C](./c)
+- [C#](./csharp)
 - [JavaScript](./javascript)
 - [Python](./python)
 - [TypeScript](./typescript)
